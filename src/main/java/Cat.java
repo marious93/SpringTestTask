@@ -9,4 +9,5 @@ public class Cat {
     public String getName() {
         return name;
     }
+
 }
